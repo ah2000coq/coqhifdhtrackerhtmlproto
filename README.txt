@@ -16,7 +16,7 @@ First time?  Any page with no students shows "Load demo students" -
 one click and you can try everything.
 
 Data is saved in the browser on this computer only. Keep all the .html
-files together in one folder, and use Backup regularly.
+files together in one folder, and use Backup regularly. progress and Murajah.html will only show data newly added students
 
 Firefox, or data not carrying between pages?
   Firefox keeps a separate store for each local file. Either use Chrome/Edge,
